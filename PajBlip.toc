@@ -1,0 +1,11 @@
+## Interface-BCC: 20502
+## X-Curse-Project-ID: 550807
+## Title: PajBlip
+## Notes: customize blip texture
+## Author: Pajlada
+## DefaultState: enabled
+## LoadOnDemand: 0
+## Version: @project-version@
+## SavedVariables: Texture
+
+main.lua
