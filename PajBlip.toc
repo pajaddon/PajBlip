@@ -1,5 +1,7 @@
-## Interface-BCC: 20502
+## Interface-BCC: 20504
 ## X-Curse-Project-ID: 550807
+## X-WoWI-ID: 26302
+## X-Wago-ID: 7x61wQG1
 ## Title: PajBlip
 ## Notes: customize blip texture
 ## Author: Pajlada
